@@ -1,0 +1,1 @@
+//A 401 response means the server blocks your request because you are not logged in or your login token is invalid, whereas a successful profile response means the server recognizes you and safely sends back your account details. After you log out, your session token is deleted, meaning the server will no longer recognize you and will return a 401 error until you log in again.
